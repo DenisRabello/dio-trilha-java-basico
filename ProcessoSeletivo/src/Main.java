@@ -116,9 +116,8 @@ class ProcessoSeletivo {
             System.out.println(mensagem);
         }
     }
-}
 
-public class Main {
+    // Método principal para execução do processo seletivo
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
